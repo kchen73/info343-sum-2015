@@ -1,7 +1,7 @@
 "use strict";
 
 //initialize Parse library with your application ID and your app's JavaScript library key
-Parse.initialize('your application id', 'your app JavaScript library key');
+Parse.initialize('Fgz8yDTOpDPE4v0PSiuEujPgCfb0LAKPy5UOM7ei', '022fPTfjsRdNGRsJt7H55XqXsrCIZ3GvTiFrrnqt');
 
 /**
  * Shows an error in an element on the page with the class 'error-message'
